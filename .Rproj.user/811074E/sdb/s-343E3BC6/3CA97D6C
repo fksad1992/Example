@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "A <- function(x){\n    return(x^3)\n}",
+    "created" : 1465542470434.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3855188973",
+    "id" : "3CA97D6C",
+    "lastKnownWriteTime" : 1465542589,
+    "last_content_update" : 1465542589964,
+    "path" : "~/GitHub/EXAMPLE/square.R",
+    "project_path" : "square.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
